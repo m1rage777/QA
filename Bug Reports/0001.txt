@@ -1,0 +1,25 @@
+Summary: https://vscode.dev/ не загружается и не открывается среда разработки в браузере Google Crome, Microsoft Edge.
+Project: https://vscode.dev/
+Author: M1rage777
+
+Assigned To: Назначен на разработчиков vscode.dev
+Status: Open
+Severity: Blocker (дефект полностью блокирует выполнение функционала)
+
+Priority:ASAP ( As Soon As Possible - как можно скорее)
+
+Description:
+Environment: AMD Ryzen 7 1800X Eight-Core Processor 3.60 GHz
+Windows 10 pro 21H1 (x64), Google Chrome Версия 97.0.4692.71 (Официальная сборка), (64 бит) и Microsoft Edge
+Версия 97.0.1072.55 (Официальная сборка) (64-разрядная версия)
+
+STR (Steps to Reproduce):
+1) Открыть браузер
+2) Открыть адрес : " https://vscode.dev/ "
+
+Actual result: Среда разработки не открывается, появляется ошибка (Visual Studio Code Fatal Error 🙈 Please check Developer Tools 🐱‍💻)
+
+Expected result: Отрывается среда разработки vscode.dev
+
+Attachment: Скриншот, видео и лог файл ниже.
+https://vk.com/m1rage777?w=wall335033957_601
